@@ -1,0 +1,4 @@
+Após fazer o clone do repositório, executar no console:
+nofaro:test <string>
+
+Será pedido o número de requisições e após isso, geradas as hashes
